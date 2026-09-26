@@ -17,7 +17,7 @@ On first visit, DevLingo asks you to choose a level:
 - **Expert** starts with JavaScript.
 - HTML and CSS lessons remain open for every tier, so students can return to fundamentals whenever they need to inspect a generated interface.
 
-The learning path now has eight HTML lessons and eight CSS lessons, followed by JavaScript and jQuery practice. There is no fixed stopping point in the HTML/CSS path: learners can keep building the skills they need to inspect generated or vibe-coded pages.
+The learning path now has eight HTML lessons and eight CSS lessons, followed by JavaScript and jQuery practice. Entry level does not gate the HTML or CSS lessons: learners can open and revisit these foundations whenever they need to inspect generated or vibe-coded pages.
 
 | Track | Topics and expected outcomes |
 | --- | --- |
