@@ -12,16 +12,17 @@ For the live preview and jQuery track, use an internet connection. The app itsel
 
 On first visit, DevLingo asks you to choose a level:
 
-- **Entry** starts at Level 1 with HTML fundamentals.
-- **Pro** starts at Level 6 with CSS and layout practice.
-- **Expert** starts at Level 12 with advanced JavaScript concepts.
+- **Entry** starts with HTML fundamentals.
+- **Pro** starts with CSS.
+- **Expert** starts with JavaScript.
+- HTML and CSS lessons remain open for every tier, so students can return to fundamentals whenever they need to inspect a generated interface.
 
-The learning path contains four tracks with four lessons each:
+The learning path now has eight HTML lessons and eight CSS lessons, followed by JavaScript and jQuery practice. There is no fixed stopping point in the HTML/CSS path: learners can keep building the skills they need to inspect generated or vibe-coded pages.
 
 | Track | Topics and expected outcomes |
 | --- | --- |
-| HTML Foundations | Build a page skeleton; choose semantic text elements; add links and images with useful attributes; make a form with an input and button. |
-| Modern CSS | Target classes and IDs; use color; explain the box model; arrange items with Flexbox; add hover states and transitions. |
+| HTML Foundations (8 lessons) | Build page landmarks and nested content; choose semantic text; inspect links, media, forms, accessible labels, and control behavior. |
+| Modern CSS (8 lessons) | Use selectors and the cascade, colors, spacing, readable type, Flexbox, responsive layouts, transitions, hover, and keyboard focus states. |
 | Vanilla JavaScript | Declare values with `const` and `let`; select and update page elements; respond to clicks; use conditions and array iteration. |
 | jQuery Speedrun | Select elements with `$()`; handle events; apply effects and styles; chain methods to update page content. |
 
@@ -29,7 +30,7 @@ The learning path contains four tracks with four lessons each:
 
 The **Selectors & Colors** lesson begins with a green button inside a lightly tinted hero area. After editing the starter code, the preview should show the change. For example, changing `.btn` or `#hero` colors changes the button or its surrounding section. Press **Run code** to check the lesson. A passing lesson shows a success message, awards 20 XP, and updates your saved path progress.
 
-Across the full course, students should finish with a small portfolio of working examples and practice reading, writing, and debugging common front-end code.
+When a learner completes every lesson in a track, DevLingo awards a named badge and recognition message. If a check fails, the learner sees the expected output and an invitation to update the code and retry. Across the course, students build a set of working examples and practice inspecting, writing, and debugging front-end code.
 
 ## Progress and reset
 
@@ -54,7 +55,7 @@ GitHub Pages publishes the site publicly, so only put material in the repository
 - `index.html` — app structure and dialogs
 - `styles.css` — responsive design and dark theme
 - `app.js` — navigation, preview sandbox, local progress, and rewards
-- `lessons.js` — all 16 lessons, starter code, hints, and checks
+- `lessons.js` — all current lesson definitions, starter code, hints, and checks
 
 ## Privacy and technical notes
 
